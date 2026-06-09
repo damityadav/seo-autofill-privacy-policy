@@ -30,5 +30,5 @@ We may update this Privacy Policy occasionally. When we do, we will update the "
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-- **Email:** support@seoautofillpro.com
+- **Email:** damityadavdigital@gmail.com
 - **GitHub Repository:** https://github.com/damityadav/seo-autofill-pro
